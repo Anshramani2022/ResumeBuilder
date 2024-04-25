@@ -9,6 +9,7 @@
 import 'package:device_info_plus/src/device_info_plus_web.dart';
 import 'package:file_picker/_internal/file_picker_web.dart';
 import 'package:package_info_plus/src/package_info_plus_web.dart';
+import 'package:permission_handler_html/permission_handler_html.dart';
 import 'package:printing/printing_web.dart';
 import 'package:syncfusion_pdfviewer_web/pdfviewer_web.dart';
 import 'package:url_launcher_web/url_launcher_web.dart';
@@ -19,6 +20,7 @@ void registerPlugins([final Registrar? pluginRegistrar]) {
   DeviceInfoPlusWebPlugin.registerWith(registrar);
   FilePickerWeb.registerWith(registrar);
   PackageInfoPlusWebPlugin.registerWith(registrar);
+  WebPermissionHandler.registerWith(registrar);
   PrintingPlugin.registerWith(registrar);
   SyncfusionFlutterPdfViewerPlugin.registerWith(registrar);
   UrlLauncherPlugin.registerWith(registrar);
