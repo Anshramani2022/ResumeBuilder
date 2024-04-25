@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fdc31c6-d367-48ae-9e62-c0aaa15dc0eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ResumeBuilder_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants/strings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/contact.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/education.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/experience.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/generic.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/resume.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/input_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/pdf_viewer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/split_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/pdf_generator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/contact_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/date_range_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/education_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/experience_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/flutter_spinner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/frosted_container.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/generic_text_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/icon_picker.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/image_file_picker.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/download.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/edit_contact.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/edit_experiences.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/import.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/overview.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showcase/visibility.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume_builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/resume_builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fbCHtTpkEZALXxDd2ef0QaoJPg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "A:/Developing/Development/ResumeBuilder_demo",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Developing\Development\ResumeBuilder_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Developing\Development\ResumeBuilder_demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ResumeBuilder_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ResumeBuilder_demo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fdc31c6-d367-48ae-9e62-c0aaa15dc0eb" name="Changes" comment="" />
+      <created>1714060407965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714060407965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
