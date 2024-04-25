@@ -26,7 +26,7 @@ class FileHandler {
     // the downloads folder path
     // Directory tempDir = await DownloadsPathProvider.downloadsDirectory;
     // String tempPath = tempDir.path;
-    var filePath = "/storage/emulated/0/Download/" + '/resume';
+    var filePath = "/storage/emulated/0/Download/" + '/resume.pdf';
     //
 
     // the data
